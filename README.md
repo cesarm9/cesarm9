@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developement, networks and data science
 - 🌱 I’m currently learning Web Development, DevOps, Python and CCNA 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Twitter @CesarMdrano1
 
 <!---
 cesarm9/cesarm9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
