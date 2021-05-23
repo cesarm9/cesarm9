@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cesarm9
 - 👀 I’m interested in Web developement, networks and data science
 - 🌱 I’m currently learning Web Development, DevOps, Python and CCNA 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Twitter @CesarMdrano1
 
 <!---
